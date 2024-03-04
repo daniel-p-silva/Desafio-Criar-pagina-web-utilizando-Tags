@@ -8,22 +8,22 @@ O objetivo deste desafio é demonstrar a aplicação prática das tags HTML apre
 
 ## Tags Utilizadas
 
-- **h1 até h6:** 
-- **p:** 
-- **mark:** 
-- **small:** 
-- **i:** 
-- **u:** 
-- **strong:** 
-- **ol e ul:** 
-- **li:**
-- **a:** 
-- **hr:** 
-- **sub e sup:** 
-- **font:** 
-- **blockquote:** 
-- **del:** 
-- **abbr:**
+- **h1 até h6** 
+- **p** 
+- **mark** 
+- **small** 
+- **i** 
+- **u** 
+- **strong** 
+- **ol e ul** 
+- **li**
+- **a** 
+- **hr** 
+- **sub e sup** 
+- **font** 
+- **blockquote** 
+- **del** 
+- **abbr**
 
 ## Conclusão
 
